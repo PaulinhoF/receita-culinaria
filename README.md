@@ -4,4 +4,7 @@ Para cada ingrediente, coloque um link externo para uma página de compra daquel
 
 Coloque imagens para a receita e para cada ingrediente da receita.
 
-OBS: utilize somente as tags html vistas até agora.
+OBS: utilize somente as tags html vistas até agora.  
+\
+\
+Receita pesquisada: [Tudo Gostoso](https://www.tudogostoso.com.br/receita/62547-a-melhor-receita-de-bolo-de-chocolate.html "A melhor receita de bolo de chocolate")
