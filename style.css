@@ -27,3 +27,11 @@ th {
   background-color: #1a1b1a;
   color: white;
 }
+.valorT{
+    color: red;
+    text-decoration: underline;
+
+}
+.valorU{
+    color: red;    
+}
